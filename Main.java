@@ -7,6 +7,7 @@ public class Main {
 		SimpleServer myServer = new SimpleServer();
 		while(true){
 			myServer.writeSocketContent();
+			//Git check
 		}
 		
 	}
